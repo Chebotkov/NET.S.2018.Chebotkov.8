@@ -1,0 +1,6 @@
+D:\Courses\NET.S.2018.Chebotkov.8\NET.S.2018.Chebotkov.8\Bank\bin\Debug\Bank.dll
+D:\Courses\NET.S.2018.Chebotkov.8\NET.S.2018.Chebotkov.8\Bank\bin\Debug\Bank.pdb
+D:\Courses\NET.S.2018.Chebotkov.8\NET.S.2018.Chebotkov.8\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Courses\NET.S.2018.Chebotkov.8\NET.S.2018.Chebotkov.8\Bank\obj\Debug\Bank.dll
+D:\Courses\NET.S.2018.Chebotkov.8\NET.S.2018.Chebotkov.8\Bank\obj\Debug\Bank.pdb
+D:\Courses\NET.S.2018.Chebotkov.8\NET.S.2018.Chebotkov.8\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
